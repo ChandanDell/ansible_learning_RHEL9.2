@@ -45,10 +45,10 @@
 ## These are my LAB Ubuntu Server in 192.168.150.0/24 series networ
 
 # IP Address on my Servers
-[ip]
-192.168.150.130
-192.168.150.131
-192.168.150.132
+#[ip]
+#192.168.150.130
+#192.168.150.131
+#192.168.150.132
 
 #Hostname are as follows
 [hostname]
